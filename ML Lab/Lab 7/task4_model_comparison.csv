@@ -1,0 +1,6 @@
+,TN,FP,FN,TP,Accuracy,Precision,Recall,F1
+Scratch Perceptron,74,26,22,32,0.688,0.552,0.593,0.571
+Scratch Logistic,84,16,26,28,0.727,0.636,0.519,0.571
+sklearn Perceptron,55,45,26,28,0.539,0.384,0.519,0.441
+sklearn Logistic,84,16,26,28,0.727,0.636,0.519,0.571
+Scratch Logistic (t=0.26),65,35,15,39,0.675,0.527,0.722,0.609
